@@ -23,7 +23,7 @@ The project compares two classification algorithms and provides an interactive d
 
 - Python
 - Pandas
-- NumPy
+- NumPy 
 - Matplotlib
 - Seaborn
 - Scikit-learn
