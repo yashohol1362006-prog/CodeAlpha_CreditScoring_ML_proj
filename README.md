@@ -6,7 +6,7 @@ A machine learning project that predicts the likelihood of serious credit delinq
 
 CreditIQ analyzes financial and credit-history indicators to predict whether a person may experience serious delinquency within the next two years, based on the target definition in the dataset.
 
-The project compares two classification algorithms and provides an interactive dashboard where users can enter financial information and view the model's prediction. 
+The project compares two classification algorithms and provides an interactive dashboard where users can enter financial information and view the model's prediction.  
 
 ## Features
 
